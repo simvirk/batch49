@@ -9,7 +9,6 @@ public class Rectangle {
     public Rectangle(double l,double b){
         this.l=l;
         this.b=b;
-        this.
 
     }
 }
